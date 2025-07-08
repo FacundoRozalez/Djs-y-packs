@@ -221,18 +221,15 @@ body {
 }
 
 @keyframes slideAnimation {
-  0%, 9%   { transform: translateX(0%); }
-  10%,19%  { transform: translateX(-100%); }
-  20%,29%  { transform: translateX(-200%); }
-  30%,39%  { transform: translateX(-300%); }
-  40%,49%  { transform: translateX(-400%); }
-  50%,59%  { transform: translateX(-500%); }
-  60%,69%  { transform: translateX(-600%); }
-  70%,79%  { transform: translateX(-700%); }
-  80%,89%  { transform: translateX(-800%); }
-  90%,100% { transform: translateX(-900%); }
+  0%, 11%    { transform: translateX(0%); }
+  12%, 23%   { transform: translateX(-100%); }
+  24%, 35%   { transform: translateX(-200%); }
+  36%, 47%   { transform: translateX(-300%); }
+  48%, 59%   { transform: translateX(-400%); }
+  60%, 71%   { transform: translateX(-500%); }
+  72%, 83%   { transform: translateX(-600%); }
+  84%, 100%  { transform: translateX(-700%); }
 }
-
 /* --------------------------- */
 
 /* DIV 6 */
@@ -267,7 +264,7 @@ body {
 .detalle-producto {
   font-size: 1rem;
   color: #333;
-  column-count: 2;        /* Número de columnas */
+  column-count: 1;        /* Número de columnas */
   column-gap: 1.5rem;     /* Separación entre columnas */
   /* Opcional para evitar que una línea quede partida */
   /* break-inside: avoid; */

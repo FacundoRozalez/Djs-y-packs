@@ -267,7 +267,7 @@ body {
 .detalle-producto {
   font-size: 1rem;
   color: #333;
-  column-count: 2;        /* Número de columnas */
+  column-count: 1;        /* Número de columnas */
   column-gap: 1.5rem;     /* Separación entre columnas */
   /* Opcional para evitar que una línea quede partida */
   /* break-inside: avoid; */
