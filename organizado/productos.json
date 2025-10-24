@@ -1,0 +1,247 @@
+[
+  {
+    "id": 1,
+    "titulo": "¡COLECCIÓN EXCLUSIVA D-MODE REMIXES CON 20 MÁS!",
+    "nombre": "D-MODE REMIXES",
+    "precio": "$10 USD",
+    "imagen": "./images/producto1/producto1.jpg",
+    "categoria": "D-MODE REMIXES",
+    "link": "producto1.html",
+    "css": "./css/styles.css"
+  },
+  {
+    "id": 2,
+    "titulo": "¡LA MEJOR MÚSICA PARA EVENTOS EN MÉXICO +700 MIXES!",
+    "nombre": "700 MIXES",
+    "precio": "$10 USD",
+    "imagen": "./images/producto2/producto2.jpeg",
+    "categoria": "700 MIXES",
+    "link": "producto2.html",
+    "css": "./css/styles.css"
+  },
+  {
+    "id": 3,
+    "titulo": "¡PACK PERFECTO PARA TU ENTRENAMIENTO +150 ENGANCHADOS!",
+    "nombre": "PACK ENTRENAMIENTO",
+    "precio": "$10 USD",
+    "imagen": "./images/producto3/producto3.jpg",
+    "categoria": "PACK ENTRENAMIENTO",
+    "link": "producto3.html",
+    "css": "./css/styles.css"
+
+  },
+  {
+    "id": 4,
+    "titulo": "¡EXPERIENCIA DE BAILE ÚNICA DANCE MIX 21 ÁLBUMES!",
+    "nombre": "DANCE MIX",
+    "precio": "$10 USD",
+    "imagen": "./images/producto4/producto4.jpg",
+    "categoria": "DANCE MIX",
+    "link": "producto4.html",
+    "css": "./css/styles.css"
+
+  },
+  {
+    "id": 5,
+    "titulo": "¡LA MEJOR COLECCIÓN MAS DE 230 EMIXES EN VIDEOS PARA TUS EVENTOS!",
+    "nombre": "MIX EMIXES",
+    "precio": "$10 USD",
+    "imagen": "./images/producto5/producto5.jpg",
+    "categoria": "MIX EMIXES",
+    "link": "producto5.html",
+    "css": "./css/styles.css"
+  },
+  {
+    "id": 6,
+    "titulo": "¡LA MAYOR COLECCIÓN +1400 MIXES PARA MÉXICO!",
+    "nombre": "MEGA MIX",
+    "precio": "$10 USD",
+    "imagen": "./images/producto6/producto6.jpg",
+    "categoria": "MEGA MIX",
+    "link": "producto6.html",
+    "css": "./css/styles.css"
+  },
+  {
+    "id": 7,
+    "titulo": "PREPÁRATE PARA VIAJAR EN EL TIEMPO CON LA COLECCIÓN CAROLINA DISCOTHEQUE!",
+    "nombre": "CAROLINA DISCOTHEQUE",
+    "precio": "$10 USD",
+    "imagen": "./images/producto7/producto7.jpg",
+    "categoria": "CAROLINA DISCOTHEQUE",
+    "link": "producto6.html",
+    "css": "./css/styles.css"
+  },
+  {
+    "id": 8,
+    "titulo": "¡LA MAYOR COLECCIÓN +1400 MIXES PARA MÉXICO!",
+    "nombre": "MEGA MIX",
+    "precio": "$10 USD",
+    "imagen": "./images/producto8/producto8.jpg",
+    "categoria": "MEGA MIX",
+    "link": "producto6.html",
+    "css": "./css/styles.css"
+  },
+  {
+    "id": 9,
+    "titulo": "¡10 VOLÚMENES COMPLETOS LANZADOS ENTRE 1994 Y 1997 BAJO EL MÍTICO SELLO TOMMY BOY RECORDS (US)!",
+    "nombre": "FREESTYLE GREATEST BEATS",
+    "precio": "$10 USD",
+    "imagen": "./images/producto9/producto9.jpg",
+    "categoria": "FREESTYLE GREATEST BEATS",
+    "link": "producto6.html",
+    "css": "./css/styles.css"
+  },
+  {
+    "id": 10,
+    "titulo": "¡UN PAQUETE DE 42 CDS Y 25 ÁLBUMES LLENOS DE ENERGÍA Y RITMO!",
+    "nombre": "COLECCIÓN EURODISCO",
+    "precio": "$10 USD",
+    "imagen": "./images/producto10/producto10.jpg",
+    "categoria": "COLECCIÓN EURODISCO",
+    "link": "producto6.html",
+    "css": "./css/styles.css"
+  },
+  {
+    "id": 11,
+    "titulo": "¡84 HITAZOS EN 6 CDS — LA COLECCIÓN I LOVE DANCE TE HACE BAILAR SIN PARAR!",
+    "nombre": "COLECCIÓN I LOVE DANCE",
+    "precio": "$10 USD",
+    "imagen": "./images/producto11/producto11.jpg",
+    "categoria": "COLECCIÓN I LOVE DANCE",
+    "link": "producto6.html",
+    "css": "./css/styles.css"
+
+  },
+  {
+    "id": 12,
+    "titulo": "¡PREPARA TU PLAYLIST PARA UN VIAJE EN EL TIEMPO CON 238 TRACKS DE LOS '80S, '90S Y 2000S!",
+    "nombre": "XMIX CLUB CLASSICS",
+    "precio": "$10 USD",
+    "imagen": "./images/producto12/producto12.jpg",
+    "categoria": "XMIX CLUB CLASSICS",
+    "link": "producto6.html",
+    "css": "./css/styles.css"
+
+  },
+  {
+    "id": 13,
+    "titulo": "¡MÁS DE 15 HORAS DE PURA MAGIA SONORA A TRAVÉS DE 14 CDS Y 222 TRACKS!",
+    "nombre": "LA MUSICA DE LOS DIOSES",
+    "precio": "$10 USD",
+    "imagen": "./images/producto13/producto13.jpg",
+    "categoria": "LA MUSICA DE LOS DIOSES",
+    "link": "producto6.html",
+    "css": "./css/styles.css"
+
+  },
+  {
+    "id": 14,
+    "titulo": "¡MÁS DE 1.500 HITS EN 3 VOLÚMENES, 100 HORAS DE PURA FIESTA RANCHERA!",
+    "nombre": "CUMBIAS RANCHERAS",
+    "precio": "$10 USD",
+    "imagen": "./images/producto14/producto14.jpg",
+    "categoria": "CUMBIAS RANCHERAS",
+    "link": "producto6.html",
+    "css": "./css/styles.css"
+
+  },
+  {
+    "id": 15,
+    "titulo": "¡6 ÁLBUMES, MÁS DE 120 TRACKS Y HORAS DE PURO DANCE EN CALIDAD FLAC!",
+    "nombre": "COLECCIÓN 100% DANCE FLAC",
+    "precio": "$10 USD",
+    "imagen": "./images/producto15/producto15.jpg",
+    "categoria": "COLECCIÓN 100% DANCE FLAC",
+    "link": "producto6.html",
+    "css": "./css/styles.css"
+
+  },
+  {
+    "id": 16,
+    "titulo": "¡1500 VIDEOS EURODANCE 90'S (MP4)!",
+    "nombre": "VIDEOS EURODANCE 90'S",
+    "precio": "$10 USD",
+    "imagen": "./images/producto16/producto16.jpg",
+    "categoria": "VIDEOS EURODANCE 90'S",
+    "link": "producto6.html",
+    "css": "./css/styles.css"
+
+  },
+  {
+    "id": 17,
+    "titulo": "¡131 VOLÚMENES, 1.200 TRACKS Y MÁS DE 9 GB DE REMIXES DE FUNKYMIX!",
+    "nombre": "COLECCIÓN FUNKYMIX",
+    "precio": "$10 USD",
+    "imagen": "./images/producto17/producto17.jpg",
+    "categoria": "COLECCIÓN FUNKYMIX",
+    "link": "producto6.html",
+    "css": "./css/styles.css"
+
+  },
+  {
+    "id": 18,
+    "titulo": "¡MÁS DE 340 TRACKS DE PURA ENERGÍA!",
+    "nombre": "PACK MAQUINA TOTAL",
+    "precio": "$10 USD",
+    "imagen": "./images/producto18/producto18.jpg",
+    "categoria": "PACK MAQUINA TOTAL",
+    "link": "producto6.html",
+    "css": "./css/styles.css"
+
+  },
+  {
+    "id": 19,
+    "titulo": "¡15 ALBUNES DE PUROS RETROS!",
+    "nombre": "PACK MIXES Y MEGAMIXES RETROS",
+    "precio": "$10 USD",
+    "imagen": "./images/producto19/producto19.jpg",
+    "categoria": "PACK MIXES Y MEGAMIXES RETROS",
+    "link": "producto6.html",
+    "css": "./css/styles.css"
+
+  },
+  {
+    "id": 20,
+    "titulo": "¡CON MÁS DE 880 TRACKS Y 22.5GB DE PURA MÚSICA!",
+    "nombre": "PIONEER THE ALBUM",
+    "precio": "$35 USD",
+    "imagen": "./images/producto20/producto20.jpg",
+    "categoria": "PIONEER THE ALBUM",
+    "link": "producto6.html",
+    "css": "./css/styles.css"
+
+  },
+  {
+    "id": 21,
+    "titulo": "¡POLYMARCHS: LA LEYENDA DE LA MÚSICA ELECTRÓNICA EN MÉXICO!",
+    "nombre": "POLYMARCHS",
+    "precio": "$10 USD",
+    "imagen": "./images/producto21/producto21.jpg",
+    "categoria": "POLYMARCHS",
+    "link": "producto6.html",
+    "css": "./css/styles.css"
+
+  },
+  {
+    "id": 22,
+    "titulo": "¡REVIVE LA ENERGÍA DE LOS 90 Y 2000 CON LA COLECCIÓN DEFINITIVA DE ULTRA DANCE Y MP DANCE!",
+    "nombre": "COLECCIÓN ULTRA DANCE Y MP DANCE",
+    "precio": "$10 USD",  
+    "imagen": "./images/producto22/producto22.jpg",
+    "categoria": "COLECCIÓN ULTRA DANCE Y MP DANCE",
+    "link": "producto6.html",
+    "css": "./css/styles.css"
+
+  },
+  {
+    "id": 23,
+    "titulo": "¡HIGH ENERGY COLLECTION: 14.6 GB - 1500 TRACKS!",
+    "nombre": "COLECCIÓN DE HIGH ENERGY, ITALO DISCO, HI-NRG Y DANCE DE LOS 80S Y 90S",
+    "precio": "$10 USD",
+    "imagen": "./images/producto23/producto23.jpg",
+    "categoria": "COLECCIÓN DE HIGH ENERGY, ITALO DISCO, HI-NRG Y DANCE DE LOS 80S Y 90S",
+    "link": "producto6.html",
+    "css": "./css/styles.css"
+
+  }
+]

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Djs y Packs</title>
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
+</head>
+<body>
+
+  <div class="parent">
+    <!-- Barra superior -->
+    <div class="div1">
+      <a href="https://t.me/Vipdjs321" target="_blank" class="telegram-icon">
+        <i class="fab fa-telegram-plane"></i>
+      </a>
+      <a href="https://wa.me/5219831015575" target="_blank" rel="noopener noreferrer" class="whatsapp-icon" aria-label="WhatsApp">
+        <i class="fab fa-whatsapp"></i>
+      </a>
+    </div>
+
+    <!-- Logo -->
+    <div class="div2">
+      <a href="index.html">
+      <img src="./images/logo.png" alt="Logo" class="logo">
+      </a>
+    </div>
+
+    <!-- Buscador -->
+    <div class="div3">
+      <div class="search-container">
+        <input type="text" id="buscador" placeholder="Buscar..." class="search-input" />
+        <span class="search-icon">🔍</span>
+      </div>
+    </div>
+
+    <!-- Menú de categorías -->
+    <div class="div4">
+      <div class="dropdown">
+        <button class="dropbtn">CATEGORÍAS
+          <span class="arrow"></span>
+        </button>
+        <div class="dropdown-content" id="menuCategorias">
+          <!-- Se llena dinámicamente -->
+        </div>
+      </div>
+    </div>
+
+    <!-- Líneas -->
+    <div class="linea-divisoria"></div>
+    <div class="linea-divisoria1"></div>
+  </div>
+
+  <!-- Productos -->
+  <div id="productos" class="productos-grid">
+    <!-- Se llena desde JS -->
+  </div>
+
+  <script src="js/index.js"></script>
+</body>
+</html>

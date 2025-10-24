@@ -1,0 +1,559 @@
+[
+    {
+    "id": 1,
+    "titulo": "¡COLECCIÓN EXCLUSIVA D-MODE REMIXES CON 20 MÁS!",
+    "nombre": "D-MODE REMIXES",
+    "precio": "💵 $10 USD",
+    "categoria": "D-MODE REMIXES",
+    "css": "./css/producto1.css",
+    "imagenes": [
+      "./images/producto1/producto1.jpg",
+      "./images/producto1/cd1.jpg",
+      "./images/producto1/cd2.jpg",
+      "./images/producto1/cd3.jpg",
+      "./images/producto1/cd4.jpg",
+      "./images/producto1/cd5.jpg",
+      "./images/producto1/cd6.jpg",
+      "./images/producto1/cd8.jpg",
+      "./images/producto1/cd9.jpg",
+      "./images/producto1/cd10.jpg"
+    ],
+    "detalle": [
+  "✅ D'MODE (27 discos)",
+  "✅ DJ SELECTION (6 discos)",
+  "✅ NRG 101.1 (18 discos)",
+  "✅ VERANO (20 discos)",
+  "✅ I LOVE VERANO",
+  "✅ IGUANA DANCE (7 discos)",
+  "✅ INVIERNO (7 discos)",
+  "✅ I LOVE INVIERNO (8 discos)",
+  "✅ I LOVE FIESTA (7 discos)",
+  "✅ ENERGY DANCE 90 (37 discos)",
+  "✅ I LOVE DANCE (7 discos)",
+  "✅ I LOVE FIESTA REGGAETÓN (3 discos)",
+  "✅ ASPEN MIX",
+  "✅ BACK TO THE 80'S (60 discos)",
+  "✅ DJ DERO (50 discos)",
+  "✅ Y MUCHOS MÁS...",
+  "🌍 ¡Música para todos los géneros y eventos! 🎶",
+  "📥 Descarga rápida y segura",
+  "💻 Perfecto para DJs, fiestas y eventos",
+  "🎉 ¡No te pierdas esta oferta única!",
+  "🔄 ¡Actualiza tu biblioteca musical ahora!",
+  "🔑 ¡Adquiere tu colección exclusiva hoy mismo!"
+    ]
+    },
+    {
+    "id": 2,
+    "titulo": "¡LA MEJOR MÚSICA PARA EVENTOS EN MÉXICO +700 MIXES!",
+    "nombre": "700 MIXES",
+    "precio": "💵 $10 USD",
+    "imagenes": [
+      "./images/producto2/producto2.jpeg",
+      "./images/producto2/cd01.jpg",
+      "./images/producto2/cd02.jpg",
+      "./images/producto2/cd03.jpg",
+      "./images/producto2/cd04.jpg",
+      "./images/producto2/cd05.jpg",
+      "./images/producto2/cd06.jpg",
+      "./images/producto2/cd07.jpg",
+      "./images/producto2/cd08.jpg",
+      "./images/producto2/cd09.jpg",
+      "./images/producto2/cd11.jpg"
+    ],
+    "detalle": [
+      "🏠 Fiestas inolvidables",
+      "📊 Eventos corporativos con estilo",
+      "🎂 Cumpleaños con alegría",
+      "💕 Casamientos románticos",
+      "🤠🎸 Norteño, Banda, Mariachi, Ranchera y más",
+      "🎵 Pop, Rock, Electrónica, Reggaetón, Salsa, Bachata y más",
+      "🎉 ¡Compra ahora y haz que tus eventos sean épicos!"
+    ],
+    "css": "./css/producto2.css"
+    },
+{
+  "id": 3,
+  "titulo": "¡EL PACK DE MÚSICA PERFECTO PARA TU ENTRENAMIENTO! 🏋️‍♀️💪",
+  "nombre": "PACK ENTRENAMIENTO",
+  "precio": "💵 $10 USD",
+  "imagenes": [
+    "./images/producto3/producto3.jpg",
+    "./images/producto3/pack01.jpg",
+    "./images/producto3/pack02.jpg",
+    "./images/producto3/pack03.jpg",
+    "./images/producto3/pack04.jpg",
+    "./images/producto3/pack05.jpg",
+    "./images/producto3/pack06.jpg",
+    "./images/producto3/pack07.jpg"
+  ],
+  "detalle": [
+    "Más de 150 enganchados de 32 count, 60 minutos de música continua para Aerobox, Aerobic, Running y más. 🎵",
+    "Géneros variados:",
+    "💃 Pop para impulsar tus sesiones de cardio",
+    "🤘 Rock para aumentar tu energía y motivación",
+    "💻 Electrónica para mantener el ritmo y la intensidad",
+    "🎤 Hip-Hop para agregar un toque de actitud y estilo",
+    "🤩 ¡Y mucho más!",
+    "💥 Con este pack, podrás crear sesiones de entrenamiento emocionantes y motivadoras para ti y tus alumnos. ¡No te quedes sin ritmo!"
+  ],
+  "css": "./css/producto3.css"
+    },
+{
+  "id": 4,
+  "titulo": "¡EL PACK DE MÚSICA PERFECTO PARA TU ENTRENAMIENTO! 🏋️‍♀️💪",
+  "nombre": "DANCE MIX",
+  "precio": "💵 $10 USD",
+  "imagenes": [
+    "./images/producto4/producto4.jpg",
+    "./images/producto4/remix01.jpg"
+  ],
+  "detalle": [
+    "Más de 21 álbumes de mezclas de baile para:",
+    "🏠 Fiestas",
+    "🍹 Clubes",
+    "📊 Eventos corporativos",
+    "Géneros:",
+    "💻 Electrónica",
+    "🏠 House",
+    "🌌 Trance",
+    "🎵 Pop, Rock y más",
+    "💃🕺 ¡La mejor música para bailar sin parar!",
+    "🎉 ¡Compra ahora y experimenta la emoción del baile!"
+  ],
+  "css": "./css/producto4.css"
+},
+{
+  "id": 5,
+  "titulo": "¡LA MEJOR COLECCIÓN DE MIXES PARA TUS EVENTOS! 🎉🎶",
+  "nombre": "MIX VIDEOS",
+  "precio": "💵 $10 USD",
+  "imagenes": [
+    "./images/producto5/producto5.jpg",
+    "./images/producto5/cd01.jpg",
+    "./images/producto5/cd02.jpg",
+    "./images/producto5/cd03.jpg",
+    "./images/producto5/cd04.jpg",
+    "./images/producto5/cd05.jpg"
+  ],
+  "detalle": [
+    "230 mixes en Videos sin sellos, listos para usar en:",
+    "🏠 Fiestas",
+    "🎂 Cumpleaños",
+    "💕 Casamientos",
+    "📊 Eventos corporativos",
+    "Géneros:",
+    "🎤 Pop 🎸 Rock 🎧 Electrónica",
+    "🔥 Reggaetón 💃 Salsa 💞 Bachata",
+    "🤠 Norteño, 🎵 Banda y más",
+    "💃🕺 ¡La mejor música para bailar sin parar!",
+    "🎉 ¡Compra ahora y experimenta la emoción del baile!"
+  ],
+  "css": "./css/producto5.css"
+},
+{
+  "id": 6,
+  "titulo": "¡LA MAYOR COLECCIÓN DE MIXES PARA MÉXICO! 🎉🎶",
+  "nombre": "MIXES MEXICO",
+  "precio": "💵 $10 USD",
+  "imagenes": [
+    "./images/producto6/producto6.jpg",
+    "./images/producto6/cd01.jpg",
+    "./images/producto6/cd02.jpg",
+    "./images/producto6/cd03.jpg",
+    "./images/producto6/cd04.jpg",
+    "./images/producto6/cd05.jpg",
+    "./images/producto6/cd06.jpg",
+    "./images/producto6/cd07.jpg",
+    "./images/producto6/cd08.jpg",
+    "./images/producto6/cd09.jpg",
+    "./images/producto6/cd10.jpg",
+    "./images/producto6/cd11.jpg",
+    "./images/producto6/cd12.jpg",
+    "./images/producto6/cd13.jpg",
+    "./images/producto6/cd14.jpg",
+    "./images/producto6/cd15.jpg",
+    "./images/producto6/cd16.jpg",
+    "./images/producto6/cd17.jpg",
+    "./images/producto6/cd18.jpg",
+    "./images/producto6/cd19.jpg",
+    "./images/producto6/cd20.jpg",
+    "./images/producto6/cd21.jpg"
+  ],
+  "detalle": [
+    "+1400 Mixes en MP3 para todos los géneros",
+    "Norteño 🤠",
+    "Banda 🎸",
+    "Mariachi 🎺",
+    "Reggaetón 🔥",
+    "Electrónica 💻",
+    "Pop, Rock, Salsa, Bachata y más 🤩",
+    "¡Entrega inmediata a tu email! ⏱️",
+    "No esperes más, compra ahora y obtén acceso instantáneo a la mejor música para tus eventos. 🎉",
+    "¡Haz que tus fiestas sean inolvidables! 🎂"
+  ],
+  "css": "./css/producto6.css"
+},
+{
+  "id": 7,
+  "titulo": "🎧 ¡Prepárate para viajar en el tiempo con la colección Carolina Discotheque! 🎶✨",
+  "nombre": "Carolina Discotheque",
+  "precio": "💵 $10 USD",
+  "imagenes": [
+    "./images/producto7/producto7.jpg"
+  ],
+  "detalle": [
+  "Esta es una verdadera joya para los amantes del dance y la música electrónica.",
+  "La colección reúne los álbumes más icónicos de fines de los 90s y principios de los 2000, cuando las discotecas de Chile 🇨🇱 vibraban con los hits más grandes del momento.",
+  "Desde los clásicos \"Hits of '95\" 💿 hasta la energía pura de \"Dance Pulse\" y los ritmos imparables de \"By DJ Emilio\" 🔊, cada álbum es un recuerdo de una era dorada.",
+  "Con la calidad de audio FLAC, podrás revivir cada beat y cada melodía como si estuvieras en la pista de baile. 🕺💃",
+  "¡Dale play a la nostalgia y no dejes que la fiesta termine! 🔥🐞"
+],
+  "css": "./css/productobase.css"
+},
+{
+  "id": 8,
+  "titulo":   "¡Revive la Fiesta Eterna de Ibiza con la Colección Más Épica! 🎉",
+  "nombre": "MEGA MIX",
+  "precio": "💵 $10 USD",
+  "imagenes": [
+    "./images/producto8/producto8.jpg"
+  ],
+  "detalle": [
+  "¿Recuerdas la energía de los años 90? ¿Esas noches de verano, la arena bajo tus pies y la música que te hacía volar? 🌴✨\n",
+  "Más de 18 CDs, 256 tracks y casi 20 horas de pura magia musical esperan por ti. Esto no es solo música, es un viaje en el tiempo a la edad de oro del dance, el house y el verano español. ☀️",
+  "Los clásicos que marcaron una era: desde los inolvidables megamixes hasta esos tracks que escuchabas en la radio y que te hacían bailar sin control. 🕺💃\n",
+  "📧 Podrás bajar el contenido a tu PC o celular y luego pasarlo fácilmente a tu USB, disco duro o donde prefieras. ¡La fiesta empieza cuando tú quieras! 🚀\n",
+  "No dejes pasar la oportunidad de tener esta joya musical. ¡Es tu pasaje VIP al paraíso del dance! ¡Compra ahora y prepárate para subir el volumen! 🔥🔊",
+  "<a href='https://drive.google.com/file/d/1FyvcJNowY2mdf04RWpUBJ9OJg5QZp24s/view?usp=drivesdk' target='_blank'>📢 VER LISTADO COMPLETO</a>"
+],
+  "css": "./css/productobase.css"
+},
+{
+  "id": 9,
+  "titulo": "🎧 Freestyle Greatest Beats: ¡El ritmo del corazón vuelve a sonar! 💿",
+  "nombre": "FREESTYLE GREATEST BEATS",
+  "precio": "💵 $10 USD",
+  "imagenes": [
+    "./images/producto9/producto9.jpg",
+    "./images/producto9/cd1.jpg"
+
+  ],
+  "detalle": [
+  "🎧 Freestyle Greatest Beats: ¡El ritmo del corazón vuelve a sonar! 💿\n",
+  "¿Listo para regresar a la era dorada del sonido Freestyle? 🚀\n",
+  "Con la Colección Freestyle Greatest Beats revivís los mejores años del dance latino y neoyorquino, esa mezcla explosiva de sintetizadores, bajos eléctricos y voces de los 80s y 90s. 💃🕺\n",
+  "No es solo música… es la esencia de una época, las luces del club y la energía de las pistas que nunca se apagan. 🎶\n",
+  "10 volúmenes completos lanzados entre 1994 y 1997 bajo el mítico sello Tommy Boy Records, todos en formato FLAC (calidad sin pérdidas). 🔊\n",
+  "Vas a disfrutar himnos como Silent Morning, One Way Love, Hooked On You, Come Into My Arms, Fantasy Girl, Spring Love, Set U Free y muchos más. 💥\n",
+  "🔗 Descarga Instantánea: recibí el enlace directo en tu correo y bajá la colección al instante.\n"
+
+],
+  "css": "./css/producto9.css"
+},
+{
+  "id": 10,
+  "titulo": "🎧 Colección Eurodisco: ¡La fiesta nunca termina! 📀",
+  "nombre": "COLECCIÓN EURODISCO",
+  "precio": "💵 $10 USD",
+  "imagenes": [
+    "./images/producto10/producto10.jpg"
+  ],
+  "detalle": [
+  "¿Estás listo para un viaje en el tiempo a través de la música dance que marcó una época? 🚀",
+  "Con la Colección Eurodisco, no solo obtienes música, sino la esencia de la fiesta directamente en tu PC o celular. 🎶",
+  "42 CDs y 25 álbumes llenos de energía y ritmo, todos en formato FLAC, la más alta calidad de sonido. 🔊",
+  "Desde los hits más icónicos de Eurodisco de los años 2000 hasta joyas raras, ¡revive la nostalgia! 💃🕺",
+  "📦 Archivos FLAC sin pérdida de calidad.",
+  "🔗 Descarga rápida: recibí el enlace directo en tu email.",
+  "💻 Compatible con PC, celular, USB o disco duro.",
+  "¡No esperes más para tener la banda sonora de tus mejores momentos! ✨",
+  "<a href='https://drive.google.com/file/d/1DQgyfMfe5tFTBgWKgsoqPkL2ZgPiaflp/view?usp=drivesdk' target='_blank'>💥 VER LISTADO</a>"
+],
+  "css": "./css/productobase.css"
+},
+{
+  "id": 11,
+  "titulo": "🔥 ¡Revive la Era Dorada del Dance con el Sonido que Hizo Historia! 🔥",
+  "nombre": "COLECCIÓN I LOVE DANCE",
+  "precio": "💵 $10 USD",
+  "imagenes": [
+    "./images/producto11/producto11.jpg"
+  ],
+  "detalle": [
+  "84 HITAZOS EN 6 CDS — LA COLECCIÓN I LOVE DANCE TE HACE BAILAR SIN PARAR",
+  "Prepárate para sentir la nostalgia y el poder de las pistas que definieron una generación. 🕺💃",
+  "Con la colección 'I ♥ Dance', no solo escuchas música, ¡la revives en su máxima calidad!",
+  "¿Eres DJ, productor o amante de la buena música? Este paquete es para ti. ✨",
+  "💥 Clásicos Inmortales: Los éxitos más grandes del Dance, de los 90s a los 2000s.",
+  "🔊 Máxima Calidad de Audio (WAV): Sonido cristalino y potente para sets, producciones o disfrute personal.",
+  "📩 Entrega Rápida y Segura: Recibe el enlace directo a tu email tras completar el pago.",
+  "¡Dale a tu colección el sonido que se merece! 🚀 Haz clic para comprar y que la fiesta nunca termine.",
+  "<a href='https://drive.google.com/file/d/1akqhmGhyKUySKPpLG-vxDmbxJ8OHApLl/view?usp=drivesdk' target='_blank'>💥 VER LISTADO</a>"
+],
+  "css": "./css/productobase.css"
+},
+{
+  "id": 12,
+  "titulo": "Revive los mejores años de tu vida con la colección completa de XMix Club Classics, ¡volúmenes 1 al 23! 🎶✨",
+  "nombre": "XMIX CLUB CLASSICS",
+  "precio": "💵 $10 USD",
+  "imagenes": [
+    "./images/producto12/producto12.jpg"
+  ],
+  "detalle": [
+  "Prepara tu playlist para un viaje en el tiempo con 238 tracks de los '80s, '90s y 2000s en versiones ultra extended.",
+  "🎉 21 horas de pura euforia y recuerdos que te harán bailar sin parar.",
+  "Perfecta para DJs, melómanos y cualquiera que quiera revivir la magia de la música que marcó una era.",
+  "💿🔥 Desde los éxitos más icónicos hasta joyas escondidas, cada track es un tesoro para tu colección.",
+  "Disfrutá la mejor calidad de audio y versiones extendidas para fiestas interminables.",
+  "📩 Una vez realizada tu compra, recibirás un link de descarga directo a tu email.",
+  "Podés descargar toda la música en tu PC o celular de forma inmediata y segura. 💻📱",
+  "¡No dejes pasar esta oportunidad! Llévate esta colección legendaria.",
+  "Haz que cada día sea una fiesta. 🎊😉",
+  "<a href='https://drive.google.com/file/d/1rstPbSc3LAmkDs9Ujh8KyYJuA-ou7Xbp/view?usp=drivesdk' target='_blank'>🔰 VER LISTADO</a>"
+],
+  "css": "./css/productobase.css"
+},
+{
+  "id": 13,
+  "titulo": "🎶 ¡Sumérgete en un viaje musical épico con La Música de los Dioses! ✨",
+  "nombre": "LA MUSICA DE LOS DIOSES",
+  "precio": "💵 $10 USD",
+  "imagenes": [
+    "./images/producto13/producto13.jpg",
+    "./images/producto13/cd1.jpg"
+  ],
+  "detalle": [
+  "¿Buscas una colección que te transporte a otro mundo? 🚀 Descubre 'La Música de los Dioses'.",
+  "Más de 15 horas de pura magia sonora a través de 14 CDs y 222 tracks.",
+  "🎧 Redescubre tus canciones favoritas con una claridad que nunca antes habías escuchado.",
+  "Incluye Volumen 1 al 5: Lo mejor de la música electrónica y ambiental que marcó una era.",
+  "Lo Mejor de 'La Música de los Dioses': Un triple CD con los himnos más icónicos.",
+  "Requiem (2013): El cierre perfecto para una colección legendaria.",
+  "📩 Una vez que completes tu compra, recibirás un enlace de descarga directo a tu email.",
+  "Accedé a esta obra maestra desde tu PC o celular, lista para disfrutar en cualquier momento.",
+  "<a href='https://drive.google.com/file/d/1QjGO-MYxdmr8_N4fE8R1_MEhi8udsI0A/view?usp=drivesdk' target='_blank'>⚡ VER LISTADO</a>"
+],
+  "css": "./css/producto9.css"
+},
+{
+  "id": 14,
+  "titulo": "🔥 ¡Prepárate para la Fiesta Ranchera! 🔥",
+  "nombre": "CUMBIAS RANCHERAS",
+  "precio": "💵 $10 USD",
+  "imagenes": [
+    "./images/producto14/producto14.jpg"
+  ],
+  "detalle": [
+  "🎵 ¡Más de 1.500 HITS en 3 VOLÚMENES, 100 HORAS DE PURA FIESTA RANCHERA! 🤠🔥",
+  "¿Te encanta la cumbia ranchera chilena? ¡Esta colección es para ti! 🎶",
+  "Tres volúmenes llenos de los mejores éxitos, listos para disfrutar donde quieras.",
+  "Volumen 1: 500 HITS y 34 horas de música, desde Alex y El Clan Azabache hasta La Banda Tropical de Vallenar.",
+  "Volumen 2: 500 HITS y 31 horas, con Los Halcones Negros, Los Hermanos Bustos y más.",
+  "Volumen 3: 560 HITS y 38 horas, con Los Rancheros de Rio Maule, Los Cuatro de la Cumbia y Super Charros de Los Ángeles.",
+  "Todos los volúmenes en MP3 COLLECTION de alta calidad.",
+  "Entrega fácil: recibirás todo directo a tu email, alojado en Google Drive.",
+  "Podés descargar o escuchar cuando quieras. ¡No te quedes sin la tuya! 🎉"
+],
+  "css": "./css/productobase.css"
+},
+{
+  "id": 15,
+  "titulo": "💿✨ ¡Colección 100% Dance FLAC! ✨🔊",
+  "nombre": "COLECCIÓN 100% DANCE FLAC",
+  "precio": "💵 $10 USD",
+  "imagenes": [
+    "./images/producto15/producto15.jpg"
+  ],
+  "detalle": [
+  "¿Buscas el ritmo que marcó una época? 🔥 Vuelve a vivir la magia de los años 90 con esta increíble colección Dance Club en FLAC de alta calidad.",
+  "Sentirás cada bajo y cada melodía como si estuvieras en la pista de baile. 🕺💃",
+  "Desde los clásicos que te hacen vibrar hasta los hits más icónicos de eurodance, techno y música de club.",
+  "🎵 Incluye:",
+  "Dance Club + 100% Dance",
+  "Dance Club 2 - Vanguarda Nacional",
+  "Dance Club 3",
+  "100% Dance Vol. 1, 2 y 3",
+  "🔥 6 ÁLBUMES, más de 120 tracks y horas de puro dance en calidad FLAC — la fiesta de los 90s en tu oído! 💿🎶"
+],
+  "css": "./css/productobase.css"
+},
+{
+  "id": 16,
+  "titulo": "💿 1500 VIDEOS EURODANCE 90'S (MP4)",
+  "nombre": "VIDEOS EURODANCE 90'S",
+  "precio": "💵 $10 USD",
+  "imagenes": [
+    "./images/producto16/producto16.jpg"
+  ],
+  "detalle": [
+  "✅ Revive la era de oro del Eurodance, Techno y House de los años '90.",
+  "✅ 1500 Videos formato MP4.",
+  "✅ Versiones Original, Edit, Remix y Extended.",
+  "✅ Cada video con nombre de artista y canción en perfecto orden.",
+  "✅ Más de 100 horas de Videos Musicales.",
+  "✅ Hits que te hicieron bailar sin parar en los mejores Clubs.",
+  "✅ Especial para DJs y amantes del Eurodance.",
+  "📺💻📱 Para ver en Smart TV, Celular, Notebook o donde quieras.",
+  "Calidad garantizada.",
+  "<a href='https://drive.google.com/file/d/16h7o3GTeHlzyIGMqKf9lyLM5lbkv2zt1/view?usp=drivesdk' target='_blank'>⬇️ VER LISTA</a>"
+],
+  "css": "./css/productobase.css"
+},
+{
+  "id": 17,
+  "titulo": "🔥 131 VOLÚMENES, 1.200 TRACKS Y MÁS DE 9 GB DE REMIXES DE FUNKYMIX! 🎧⚡️",
+  "nombre": "COLECCIÓN FUNKYMIX",
+  "precio": "💵 $10 USD",
+  "imagenes": [
+    "./images/producto17/producto17.jpg"
+  ],
+  "detalle": [
+ "¿Estás buscando los mejores remixes para llevar tus sets al siguiente nivel?",
+  "🚀 La colección FunkyMix es perfecta para DJs que quieren sorprender a su público.",
+  "Producida por Ultimix, incluye remixes exclusivos de los temas más populares.",
+  "Con FunkyMix tendrás variedad y calidad para crear mezclas dinámicas y llenas de energía. 🔥",
+  "131 volúmenes con los remixes más increíbles.",
+  "1200 tracks únicos para que nunca te quedes sin opciones. 🎶",
+  "9.94 GB de contenido de alta calidad.",
+  "Acceso a un servidor de Google Drive para descargas rápidas y sencillas. ⚡️",
+  "¡Dale a tus sets el toque que los hará inolvidables! ✨",
+  "¡Compra ahora y empieza a mezclar como un profesional! 👇"
+],
+  "css": "./css/productobase.css"
+},
+{
+  "id": 18,
+  "titulo": "¡Revive la mejor época de la música dance! 🎶",
+  "nombre": "PACK MAQUINA TOTAL",
+  "precio": "💵 $10 USD",
+  "imagenes": [
+    "./images/producto18/producto18.jpg",
+    "./images/producto18/cd1.jpg"
+
+  ],
+  "detalle": [
+ "Prepara tus audífonos: viaja en el tiempo con la colección más completa de Máquina Total. ✨",
+  "Incluye todos los álbumes clásicos, desde Máquina Total 1 hasta Máquina Total 11, versiones de España y México.",
+  "También incluye Techno Total y el especial de Navidad Total 🎅.",
+  "🔥 Más de 340 tracks de pura energía.",
+  "🎧 28 horas de música non-stop, perfectas para fiestas, viajes o entrenar.",
+  "💿 Colección de los 90 + compilación especial de lo mejor del Duro de los 90.",
+  "🚀 Acceso inmediato: todo se envía a tu email, alojado en Google Drive.",
+  "Ideal para fans del dance y la nostalgia de los 90.",
+  "¡No dejes pasar esta oportunidad! Perfecto para regalar o disfrutar.",
+  "¡Listo para comprar y revivir la música que marcó una era! 🎉"
+],
+  "css": "./css/producto9.css"
+},
+{
+  "id": 19,
+  "titulo": "¡Revive la época dorada de la música con la Colección de Mixes y Megamixes Retros! 💿🔥",
+  "nombre": "PACK MIXES Y MEGAMIXES RETROS",
+  "precio": "💵 $10 USD",
+  "imagenes": [
+    "./images/producto19/producto19.jpg"
+  ],
+  "detalle": [
+  "¿Listo para un viaje en el tiempo? ⏳ Siente la nostalgia y prepárate para bailar con esta increíble colección de mixes y megamixes.",
+  "Desde los ritmos explosivos de la música house de los 90 hasta los éxitos que marcaron una era.",
+  "🎵 Incluye 15 álbumes de puros retros.",
+  "Megamix Forever 9: la compilación definitiva de megamixes.",
+  "Dancefloor Megamix: ideal para animar cualquier pista de baile.",
+  "¡Bomba 90's!: los hits más explosivos de la década.",
+  "Incluye ediciones especiales y remixes exclusivos que no encontrarás en otro lugar.",
+  "🎧 Calidad superior: todos los mixes en MP3 de alta calidad.",
+  "Descarga inmediata: recibirás el link directo en tu email.",
+  "¡Compra ahora y que no pare la fiesta! 🎉"
+],
+  "css": "./css/productobase.css"
+},
+{
+  "id": 20,
+  "titulo": "Pioneer THE ALBUM en formato FLAC (sin pérdida).",
+  "nombre": "PIONEER THE ALBUM",
+  "precio": "💵 $35 USD",
+  "imagenes": [
+    "./images/producto20/producto20.jpg",
+    "./images/producto20/cd1.jpg"
+
+  ],
+  "detalle": [
+ "¡Atención DJs y amantes de la música! 🔊💿",
+  "¿Buscas la mejor calidad de sonido para tus sets o tu colección personal?",
+  "¡Llegó la colección que estabas esperando! 🎶🔥",
+  "Pioneer \"The Album\" en formato FLAC (sin pérdida). Escucha cada beat y detalle como en estudio.",
+  "Más de 880 tracks y 22.5GB de pura música para tus fiestas o disfrute personal.",
+  "Entrega inmediata: recibirás el enlace directo en tu email.",
+  "Descargá la colección en tu PC o celular y pásala a tu USB o disco duro.",
+  "Fácil, rápido y con la mejor calidad. 💯",
+  "¡No esperes más! Haz tu compra ahora y eleva tu experiencia musical. 🚀✨",
+  "<a href='https://drive.google.com/file/d/1uh40G4BP1FxsYku_WiqdGRClghmsQulU/view?usp=drivesdk' target='_blank'>Listado de tracks</a>"
+],
+  "css": "./css/producto9.css"
+},
+{
+  "id": 21,
+  "titulo": "🎵 POLYMARCHS: LA LEYENDA DE LA MÚSICA ELECTRÓNICA EN MÉXICO 🔥",
+  "nombre": "POLYMARCHS",
+  "precio": "💵 $10 USD",
+  "imagenes": [
+    "./images/producto21/producto21.jpg"
+  ],
+  "detalle": [
+  "¡Descubre la historia detrás de la agrupación de luz y sonido móvil más icónica de México! 💃",
+  "Contenido: La historia completa de Polymarchs desde los años 80 hasta su legado actual. 📚",
+  "Características: La verdadera historia detrás de la fama y el equipo de sonido más avanzado. 🔍💻",
+  "DJ Tony Barrera: El genio detrás de los mixes, su legado y tributo de Polymarchs. 🎧🔥🙏",
+  "Victor Estrella: Nuevo DJ de Polymarchs y continuidad del legado. 🎤",
+  "Incluye discografía, mixes legendarios, fotos y recuerdos de la época. 📵🎵📸",
+  "Entrega digital: Descargá todo directamente desde tu email. 📩",
+  "Perfecto para fanáticos, coleccionistas y amantes de la música electrónica. 🎶",
+  "¡No te pierdas la oportunidad de conocer la verdadera historia de Polymarchs! 💸"
+],
+  "css": "./css/productobase.css"
+},
+{
+  "id": 22,
+  "titulo": "🎧 ¡Revive la energía de los 90 y 2000 con la colección definitiva de Ultra Dance y MP Dance! ✨",
+  "nombre": "COLECCIÓN ULTRA DANCE Y MP DANCE",
+  "precio": "💵 $10 USD",
+  "imagenes": [
+    "./images/producto22/producto22.jpg"
+  ],
+  "detalle": [
+  "Sumérgete en la época dorada de la música dance con esta colección exclusiva de seis álbumes icónicos. 🎶",
+  "Incluye: Ultra Dance Vol. 1 y 2, y MP Dance In The Mix Vol. 1, 2, 3 y 4.",
+  "Artistas destacados: Modern Talking, Falco, Funky Diamonds, Melisa Ferrer y más. 💿",
+  "Disfrutá la mezcla perfecta de Eurodance, House y Progressive Trance, seleccionada para bailar sin parar.",
+  "Calidad de audio premium: Todos los álbumes en formato FLAC, sin pérdidas. 🔊",
+  "Colección completa y rara, ideal para coleccionistas o fans de la música de los 90s. ✨",
+  "Entrega inmediata: Recibí todo al instante en tu correo electrónico. 📩",
+  "Archivos alojados en Google Drive listos para descargar y disfrutar. 💻📱",
+  "No dejes escapar esta oportunidad de revivir los mejores hits de la época dorada del dance. 💃🕺"
+],
+  "css": "./css/productobase.css"
+},
+{
+  "id": 23,
+  "titulo": "¡La colección que todo DJ y amante de la pista de baile necesita! 🕺💃",
+  "nombre": "COLECCIÓN DE HIGH ENERGY, ITALO DISCO, HI-NRG Y DANCE DE LOS 80S Y 90S",
+  "precio": "💵 $10 USD",
+  "imagenes": [
+    "./images/producto23/producto23.jpg"
+  ],
+  "detalle": [
+  "Prepárate para la máxima dosis de adrenalina con esta mega colección de High Energy, Italo Disco, Hi-NRG y Dance de los 80s y 90s. 🚀✨",
+  "Incluye himnos de PATRICK MILLER, POLYMARCHS, Evelyn Thomas, Pure Adrenalin, Italo Dance, Ritmos Latinos y más. 🔥",
+  "Sets, tracks individuales y mezclas que te harán vibrar.",
+  "1500 Tracks en MP3 de la mejor calidad.",
+  "14.6 GB de pura música que no pasa de moda.",
+  "Colecciones de culto como Polymarchs 80 y 90's y High Energy Workout Music.",
+  "Ritmos rápidos, bajos potentes y sintetizadores épicos garantizados.",
+  "Entrega inmediata: Recibí todo al instante en tu correo electrónico. 📧⚡️",
+  "Descarga directa a tu celular o PC y luego pásalo a tu USB, memoria o disco. 💻📱"
+],
+  "css": "./css/productobase.css"
+}
+]
