@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Djs y Packs</title>
-  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="css/styles.css" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
 </head>
 <body>
@@ -22,28 +22,27 @@
 
     <!-- Logo -->
     <div class="div2">
+      <a href="index.html">
       <img src="./images/logo.png" alt="Logo" class="logo">
+      </a>
     </div>
 
     <!-- Buscador -->
     <div class="div3">
       <div class="search-container">
-        <input type="text" placeholder="Buscar..." class="search-input" />
+        <input type="text" id="buscador" placeholder="Buscar..." class="search-input" />
         <span class="search-icon">🔍</span>
       </div>
     </div>
 
-    <!-- Menú -->
+    <!-- Menú de categorías -->
     <div class="div4">
       <div class="dropdown">
-        <button class="dropbtn">CATEGORIAS
+        <button class="dropbtn">CATEGORÍAS
           <span class="arrow"></span>
         </button>
-        <div class="dropdown-content">
-          <a href="producto1.html">D-MODE REMIXES</a>
-          <a href="producto2.html">700 MIXES</a>
-          <a href="producto3.html">PACK ENTRENAMIENTO</a>
-          <a href="producto4.html">DANCE MIX</a>
+        <div class="dropdown-content" id="menuCategorias">
+          <!-- Se llena dinámicamente -->
         </div>
       </div>
     </div>
@@ -54,70 +53,10 @@
   </div>
 
   <!-- Productos -->
-  <div class="productos-grid">
-    <a href="producto1.html" class="link-div">
-      <div class="producto">
-        <div class="imagen-contenedor">
-          <img class="producto1" src="./images/producto1/producto1.jpg" alt="producto1" />
-        </div>
-        <p class="nombre-producto">¡COLECCIÓN EXCLUSIVA D-MODE REMIXES CON 20 MÁS!</p>
-        <p class="precio-producto">💵 $150 MXN 🇲🇽 / $7.000 ARS 🇦🇷 / $7.000 CLP 🇨🇱</p>
-      </div>
-    </a>
-
-    <a href="producto2.html" class="link-div">
-      <div class="producto">
-        <div class="imagen-contenedor">
-          <img class="producto1" src="./images/producto2/producto2.jpeg" alt="producto2" />
-        </div>
-        <p class="nombre-producto">¡LA MEJOR MÚSICA PARA EVENTOS EN MÉXICO +700 MIXES!</p>
-        <p class="precio-producto">💵 $150 MXN 🇲🇽 / $7.000 ARS 🇦🇷 / $7.000 CLP 🇨🇱</p>
-      </div>
-    </a>
-
-    <a href="producto3.html" class="link-div">
-      <div class="producto">
-        <div class="imagen-contenedor">
-          <img class="producto1" src="./images/producto3/producto3.jpg" alt="producto3" />
-        </div>
-        <p class="nombre-producto">¡PACK PERFECTO PARA TU ENTRENAMIENTO +150 ENGANCHADOS!</p>
-        <p class="precio-producto">💵 $150 MXN 🇲🇽 / $7.000 ARS 🇦🇷 / $7.000 CLP 🇨🇱</p>
-      </div>
-    </a>
-
-    <a href="producto4.html" class="link-div">
-      <div class="producto">
-        <div class="imagen-contenedor">
-          <img class="producto1" src="./images/producto4/producto4.jpg" alt="producto4" />
-        </div>
-        <p class="nombre-producto">¡EXPERIENCIA DE BAILE ÚNICA DANCE MIX 21 ÁLBUMES!</p>
-        <p class="precio-producto">💵 $150 MXN 🇲🇽 / $7.000 ARS 🇦🇷 / $7.000 CLP 🇨🇱</p>
-      </div>
-    </a>
-
-    <a href="producto5.html" class="link-div">
-      <div class="producto">
-        <div class="imagen-contenedor">
-          <img class="producto1" src="./images/producto5/producto5.jpg" alt="producto4" />
-        </div>
-        <p class="nombre-producto">¡LA MEJOR COLECCIÓN MAS DE 230 EMIXES EN VIDEOS PARA TUS EVENTOS!</p>
-        <p class="precio-producto">💵 $150 MXN 🇲🇽 / $7.000 ARS 🇦🇷 / $7.000 CLP 🇨🇱</p>
-      </div>
-    </a>
-
-    <a href="producto6.html" class="link-div">
-      <div class="producto">
-        <div class="imagen-contenedor">
-          <img class="producto1" src="./images/producto6/producto6.jpg" alt="producto4" />
-        </div>
-        <p class="nombre-producto">¡LA MAYOR COLECCIÓN +1400 MIXES PARA MÉXICO! </p>
-        <p class="precio-producto">💵 $150 MXN 🇲🇽 / $7.000 ARS 🇦🇷 / $7.000 CLP 🇨🇱</p>
-      </div>
-    </a>
-
-
-    <!-- Más productos si querés -->
+  <div id="productos" class="productos-grid">
+    <!-- Se llena desde JS -->
   </div>
 
+  <script src="js/index.js"></script>
 </body>
 </html>
